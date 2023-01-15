@@ -1,0 +1,72 @@
+h1{
+    font-size:xx-large;
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+    text-align: center;
+    background-color:purple;
+    font-weight: bold;
+    border:5px solid black;
+    
+
+}
+body{
+    background-color: lightblue;
+}
+.heading{
+    padding: 20px;
+}
+.iitr{
+    width: 100vw;
+    height:500px;
+    align-self: center;
+}
+.signnin{
+    margin-left: 90%;
+    font-weight: bold;
+    font-size: 20px;
+    color:blue;
+    background-color:black;
+    border:5px solid grey;
+    font-size: 30px;
+
+    
+    
+    
+    
+}
+.big{
+    flex-wrap: wrap;
+}
+.para{
+    font-size:x-large;
+    width:50vw;
+    height:140px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bold;
+    border:8px solid black;
+    background-color:grey;
+    color:purple;
+    border-radius: 20px;
+}
+div a :hover{
+     text-decoration-color: black;
+}
+.p{
+    color:black;
+    font-weight: bold;
+    
+}
+.d1{
+    font-size:10px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+
+}
+.
+
+    
+
+
+
